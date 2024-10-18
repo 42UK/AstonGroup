@@ -1,6 +1,6 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hi from master");
+        System.out.println("Hi from 42UK");
     }
 }
